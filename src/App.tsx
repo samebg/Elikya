@@ -21,10 +21,28 @@ function App() {
       image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&q=80"
     },
     {
-      name: "Michael Chen",
-      role: "Medical Tourist",
-      content: "When I needed to travel for medical treatment, Elikya made the visa process seamless. Their attention to detail ensured I had no issues with my documentation.",
+      name: "Degda",
+      role: "Tourist",
+      content: "Thanks to Elikya I got my us tourism visa.",
       image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&q=80"
+    },
+    {
+      name: "Amara Okafor",
+      role: "Business Traveler",
+      content: "I've used Elikya for multiple business trips, and they consistently deliver exceptional service. Their hotel and flight bookings are always perfect.",
+      image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&q=80"
+    },
+    {
+      name: "Amara Okafor",
+      role: "Business Traveler",
+      content: "I've used Elikya for multiple business trips, and they consistently deliver exceptional service. Their hotel and flight bookings are always perfect.",
+      image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&q=80"
+    },
+    {
+      name: "Amara Okafor",
+      role: "Business Traveler",
+      content: "I've used Elikya for multiple business trips, and they consistently deliver exceptional service. Their hotel and flight bookings are always perfect.",
+      image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&q=80"
     },
     {
       name: "Amara Okafor",
@@ -189,7 +207,7 @@ function App() {
           <div className="flex flex-col md:flex-row items-center gap-12">
             <div className="md:w-1/2">
               <img
-                src="Pictures/Flo.jpg" alt="Office" class="rounded-lg shadow-lg"
+                src="https://raw.githubusercontent.com/samebg/Elikya/refs/heads/main/Pictures/Flo.jpg" 
                 alt="Office"
                 className="rounded-lg shadow-lg"
               />
