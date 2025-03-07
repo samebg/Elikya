@@ -18,45 +18,27 @@ function App() {
       name: "Kesie M",
       role: "International Student",
       content: "Thanks to Elikya, I'm currently a student at Northwest University in Washington State.",
-      image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&q=80"
+      image: "https://raw.githubusercontent.com/samebg/Elikya/refs/heads/main/Pictures/Keise.JPG"
     },
     {
-      name: "Degda",
+      name: "Degda E",
       role: "Tourist",
-      content: "Thanks to Elikya I got my us tourism visa.",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&q=80"
+      content: "Thanks to Elikya, I got my U.S. tourist visa.",
+      image: "https://raw.githubusercontent.com/samebg/Elikya/refs/heads/main/Pictures/Degda.JPG"
     },
     {
-      name: "Amara Okafor",
-      role: "Business Traveler",
-      content: "I've used Elikya for multiple business trips, and they consistently deliver exceptional service. Their hotel and flight bookings are always perfect.",
-      image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&q=80"
-    },
-    {
-      name: "Amara Okafor",
-      role: "Business Traveler",
-      content: "I've used Elikya for multiple business trips, and they consistently deliver exceptional service. Their hotel and flight bookings are always perfect.",
-      image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&q=80"
-    },
-    {
-      name: "Amara Okafor",
-      role: "Business Traveler",
-      content: "I've used Elikya for multiple business trips, and they consistently deliver exceptional service. Their hotel and flight bookings are always perfect.",
-      image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&q=80"
-    },
-    {
-      name: "Amara Okafor",
-      role: "Business Traveler",
-      content: "I've used Elikya for multiple business trips, and they consistently deliver exceptional service. Their hotel and flight bookings are always perfect.",
-      image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&q=80"
+      name: "Jonathan",
+      role: "Tourist",
+      content: "J'apprécie l'effort supplémentaire pour l'aide du voyage et de l'hébergement. Visa Closer a facilité mon déménagement au Canada. Cette équipe est vraiment géniale! Leur attention aux détails et leur engagement à s'assurer que ma demande était sans erreur étaient remarquables.",
+      image: "https://raw.githubusercontent.com/samebg/Elikya/refs/heads/main/Pictures/Jonathan%20Cropped.JPG"
     }
   ];
 
   const partners = [
     {
-      name: "Global University Alliance",
-      logo: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
-      description: "Network of prestigious universities offering scholarship opportunities"
+      name: "Pierce College",
+      logo: "https://wsbdc.org/wp-content/uploads/2023/05/Pierce-College-Logo.png",
+      description: "Innovative and engaged learners enriching our local and global communities."
     },
     {
       name: "International Travel Association",
