@@ -37,23 +37,33 @@ function App() {
   const partners = [
     {
       name: "Pierce College",
-      logo: "https://wsbdc.org/wp-content/uploads/2023/05/Pierce-College-Logo.png",
-      description: "Innovative and engaged learners enriching our local and global communities."
+      logo: "https://raw.githubusercontent.com/samebg/Elikya/refs/heads/main/Pictures/Pierce-College-Logo.png",
+      description: "Pierce College is a public community college in Tacoma, Washington, United States."
     },
     {
-      name: "International Travel Association",
-      logo: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
-      description: "Ensuring quality standards in travel services worldwide"
+      name: "Evergreen State College",
+      logo: "https://raw.githubusercontent.com/samebg/Elikya/refs/heads/main/Pictures/Evergreen.png",
+      description: "Evergreen State College is a public liberal arts college in Olympia, Washington, United States."
     },
     {
-      name: "Medical Tourism Council",
-      logo: "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
-      description: "Facilitating access to quality healthcare across borders"
+      name: "Green River College",
+      logo: "https://raw.githubusercontent.com/samebg/Elikya/refs/heads/main/Pictures/Green_River_College.png",
+      description: "Green River College is a public community college in Auburn, Washington, United States."
     },
     {
-      name: "Premium Hotels Network",
-      logo: "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
-      description: "Exclusive partnerships with luxury accommodations worldwide"
+      name: "Northwest University",
+      logo: "https://raw.githubusercontent.com/samebg/Elikya/refs/heads/main/Pictures/Northwest_University.png",
+      description: "Northwest University is a private, non-profit institution of higher education located in Kirkland, Washington, USA."
+    },
+    {
+      name: "Evergreen Lutheran High School",
+      logo: "https://raw.githubusercontent.com/samebg/Elikya/refs/heads/main/Pictures/Evergreen%20Lutheran.jpg",
+      description: "Evergreen Lutheran High School is a private, non-profit institution of higher education located in Kirkland, Washington, USA."
+    },
+    {
+      name: "Soteric Academy",
+      logo: "https://raw.githubusercontent.com/samebg/Elikya/refs/heads/main/Pictures/Soteric.png",
+      description: "We cultivate a focused and supportive learning environment that inspires our students to reach their full potential. With an emphasis on discipline and strong study habits, we instill in our students the importance of dedication, perseverance, and self-motivation."
     }
   ];
 
@@ -214,15 +224,15 @@ function App() {
               <div className="space-y-4">
                 <div className="flex items-center">
                   <WhatsappIcon className="h-6 w-6 text-green-500 mr-2" />
-                  <p>WhatsApp: [Number to be added]</p>
+                  <p>WhatsApp: +1 (346)-587-2259</p>
                 </div>
                 <div className="flex items-center">
                   <Phone className="h-6 w-6 text-blue-600 mr-2" />
-                  <p>US Phone: [Number to be added]</p>
+                  <p>US Phone: +1 (346)-587-2259</p>
                 </div>
                 <div className="flex items-center">
                   <MapPin className="h-6 w-6 text-red-500 mr-2" />
-                  <p>[Address to be added]</p>
+                  <p> Victoire, Kinshasa</p>
                 </div>
               </div>
             </div>
